@@ -1,0 +1,5 @@
+/* body{background-color: black;} */
+h1{font-size: 90px;text-align: center;text-decoration: underline 2px;text-shadow: 2px 4px;}
+#finalh2{text-decoration: underline 3px;font-style: italic;border: solid 3px;}
+.roboto{font-size: 27.5px;}
+*{font-family: "Roboto", sans-serif;}
